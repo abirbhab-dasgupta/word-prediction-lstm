@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/nextword_env/Scripts/python.exe",
+  "files.watcherExclude": {
+    "**/nextword_env/**": true,
+    "**/venv/**": true,
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true
+  }
+}
