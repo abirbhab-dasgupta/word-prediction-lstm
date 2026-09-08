@@ -78,5 +78,3 @@ Once started, the application will be accessible at `http://localhost:8501`.
 
 ---
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
